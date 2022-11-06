@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39adf834-ccb9-4585-a919-a70dc663ac75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConsoleColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TaskManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
+    <list default="true" id="39adf834-ccb9-4585-a919-a70dc663ac75" name="Changes" comment="workshop update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TaskManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +27,74 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2GUh9VRdlCWIKhXSu64o4P0LZUK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/krzysztof/WAR_JEE_W_24_OOP&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Warsztat">
+    <configuration name="PongGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PongGame" />
+      <module name="WorkshopTaskManagerKR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskManager" />
+      <module name="WorkshopTaskManagerKR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Warsztat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warsztat" />
+      <module name="WorkshopTaskManagerKR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="egzaminpróbnyy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="egzaminpróbnyy" />
+      <module name="WorkshopTaskManagerKR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nauka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nauka" />
+      <module name="WorkshopTaskManagerKR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Warsztat" />
+        <item itemvalue="Application.TaskManager" />
+        <item itemvalue="Application.nauka" />
+        <item itemvalue="Application.PongGame" />
+        <item itemvalue="Application.egzaminpróbnyy" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,8 +103,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666448920974</updated>
-      <workItem from="1666448923298" duration="626000" />
+      <workItem from="1666448923298" duration="2692000" />
+      <workItem from="1666456320666" duration="40000" />
+      <workItem from="1666515199621" duration="46027000" />
+      <workItem from="1666981711511" duration="14565000" />
+      <workItem from="1667241009840" duration="65000" />
+      <workItem from="1667290020913" duration="10057000" />
+      <workItem from="1667381508096" duration="11309000" />
+      <workItem from="1667569184688" duration="30525000" />
     </task>
+    <task id="LOCAL-00001" summary="workshop update">
+      <created>1666449726408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666449726408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="workshop update" />
+    <option name="LAST_COMMIT_MESSAGE" value="workshop update" />
   </component>
 </project>
